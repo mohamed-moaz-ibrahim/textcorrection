@@ -1,0 +1,1 @@
+from textcorrection import SPELLING, WORDSPOOL 
